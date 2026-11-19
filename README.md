@@ -1,4 +1,4 @@
-# nkodatalabs-com
+# NKO Data Labs
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,106 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-nkodatalabs-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://nkodatalabs.com/
+NKO Data Labs provides independent industrial reality data, measuring physical changes in real-world assets using public data sources. Their products include landfills measurement, LEI entity verification, EU contract status checks, and AI dataset license monitoring, all delivered with provenance, confidence scores, and clear separation of observed versus inferred information.
+
+**Areas:** Data · Industrial · Geospatial · Analytics · OpenData
+
+## NKO Data Labs on APIs.io
+
+Everything profiled for NKO Data Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nkodatalabs-com/](https://apis.io/providers/nkodatalabs-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (3)
+
+- [Patent Reality Check API](https://apis.io/apis/nkodatalabs-com/patent-reality-check-api/) — API for checking patent legal state and related operations.
+- [NKO Data Labs Meta API](https://apis.io/apis/nkodatalabs-com/nkodatalabs-com-meta-api/) — The meta API from NKO Data Labs — 3 operation(s) for meta.
+- [NKO Data Labs Patent Reality Check API](https://apis.io/apis/nkodatalabs-com/nkodatalabs-com-patent-reality-check-api/) — The patent_reality_check API from NKO Data Labs — 5 operation(s) for patent_reality_check.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [NKO Data Labs Agentic Access](https://apis.io/agentic-access/nkodatalabs-com/nkodatalabs-com-agentic-access/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Nkodatalabs Com Context](https://apis.io/jsonld/nkodatalabs-com/nkodatalabs-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [NKO Data Labs API Rules](https://apis.io/rules/nkodatalabs-com/nkodatalabs-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [NKO Data Labs Domain Security](https://apis.io/security/nkodatalabs-com/nkodatalabs-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nkodatalabs.com/)
+
+## API Evangelist rating
+
+**Kin Score 25.4** — emerging · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 43.3 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 27.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 10.8** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nkodatalabs-com/](https://apis.io/providers/nkodatalabs-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for NKO Data Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nkodatalabs-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
